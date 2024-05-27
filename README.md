@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raj-Gopika
-- 👀 I’m interested in ... Computing and Programming
-- 🌱 I’m currently learning ... AI and Python
+- 👀 I’m interested in ... AI, DataScience and RPA
+- 🌱 I’m currently learning ... Machine Learning and Python
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
