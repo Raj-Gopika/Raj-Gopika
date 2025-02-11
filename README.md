@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raj-Gopika
-- 👀 I’m interested in ... AI/ML, DataScience and RPA
+- 👀 I’m interested in ... AI/ML, DataScience and RPA and software development
 - 🌱 I’m currently learning ... Machine Learning and Python
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ...
